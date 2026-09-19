@@ -2,6 +2,8 @@
 
 O objetivo deste projeto é facilitar o compartilhamento de endereços da internet por meio de links curtos e permitir que eles sejam gerenciados em uma única interface.
 
+![Home Page](docs/portfolio-cover.png)
+
 Este diretório contém o **frontend**, a parte visual da aplicação. A proposta inclui cadastrar links, consultar a quantidade de acessos, copiar e excluir links e exportar a lista em CSV.
 
 **Estágio atual:** as telas estão em desenvolvimento e a listagem utiliza dados de exemplo. As ações de salvar, copiar, excluir, baixar CSV e redirecionar para o endereço original ainda não estão implementadas. Não há integração com uma API neste frontend.
